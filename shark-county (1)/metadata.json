@@ -1,0 +1,9 @@
+{
+  "name": "Shark County",
+  "description": "The premier social network and match-finding app for pool players. Find local tournaments, challenge players, and track your stats with GPS-based discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
